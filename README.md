@@ -62,9 +62,7 @@ docker build -f Dockerfile -t iyoungman/spring-docker-example .
 >
 > docker push iyoungman/spring-docker-example:latest  
 * DockerHub에 해당 저장소가 없다면 자동 생성
-
 * My DockerHub
   * https://hub.docker.com/repository/docker/iyoungman/spring-docker-example
-
 * 참고
   * http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter13/02
