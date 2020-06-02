@@ -25,6 +25,7 @@ ADD ${JAR_FILE} spring-docker.jar
 ENTRYPOINT ["java","-jar","/spring-docker.jar"]
 ```
 
+<br>
 
 > 참고
 * https://docs.docker.com/engine/reference/builder/
@@ -54,6 +55,8 @@ docker build -f Dockerfile -t iyoungman/spring-docker-example .
 ## 3. DockerFile을 DockerHub에 올린다
 > docker login  
 * 로그인
+
+<br>
 
 > docker push 이미지 이름
 >
