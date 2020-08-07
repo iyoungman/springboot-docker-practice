@@ -30,7 +30,6 @@ build/
 ### VS Code ###
 .vscode/
 ### Maven template
-target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
